@@ -11,7 +11,7 @@ Once a [challenge research working group](2-research.md) has come up with a solu
 * __Backlog__: Create a ‘backlog’ of all of the problems that need to be solved and requirements with the problem owners.
 * __Communication__: Work with D2.6 team to define a marketing and social media plan to connect with the wider ecosystem and bring in other interested partners/developers in the development.
 
-The solution definition is developed (version controlled) on GitHub so it can serve as a base for continuous development. The solution working group also uses GitHub Issues to track issues and work related to this project. In addition to this there can be a category on the [SCORE Community](https://score.community) for higher level communications.
+The solution definition is developed (version controlled) on GitHub so it can serve as a base for continuous development. The solution working group also uses GitHub Issues to track issues and work related to this solution. In addition to this there can be a category on the [SCORE Community](https://score.community) for higher level communications.
 
 ## IoT Registry example story:
 
