@@ -6,7 +6,7 @@ Once a [challenge research working group](2-research.md) has come up with a solu
 * __Plan__: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the solution working group, that also integrates with the overall project plan.
 * __Metrics__: Define metrics of success, including metrics to measure increased development efficacy (D4.10), quality and cost of public service delivery (D5.2) to report on SCORE indicators.
 * __Architectural principles__: Define basic architecture and architectural principles.
-* __Codebase__: Decide on a fitting solution and codebase governance model for this specific solution.
+* __Governance__: Decide on a codebase governance model for this specific solution.
 * __Research__: Research existing Open Source libraries that can be used, built on or give inspiration.
 * __Backlog__: Create a ‘backlog’ of all of the problems that need to be solved and requirements with the problem owners.
 * __Communication__: Work with D2.6 team to define a marketing and social media plan to connect with the wider ecosystem and bring in other interested partners/developers in the development.
