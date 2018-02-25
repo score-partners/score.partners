@@ -19,8 +19,6 @@ The working group does the following:
 
 Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups forum. In that forum there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
 
-This phase is followed by [Project Definition (Months 3 to 5)](3-solution-definition.md).
-
 ## IoT Registry Project example story:
 
 > The ‘IoT registry working group’ is made up out of the cities of Aarhus and Amsterdam who want to co-develop a register for sensor data. Göteborg and Ghent join, as they want to implement and test the solution. Aarhus and Ghent already have some rich data sources for outdoor sensors, while Amsterdam and Göteborg lack these. Amsterdam requires functionality around the compulsory registration of the devices.

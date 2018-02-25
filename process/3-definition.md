@@ -1,6 +1,6 @@
 # Solution Definition
 
-Once a [challenge working group](2-working-groups.md) has come up with a solution it needs to be defined and researched before the partners can start developement. A challenge working group might split up in to multiple solution working groups, since there might be multiple possible solutions for a challenge.
+Once a [challenge research working group](2-research.md) has come up with a solution it needs to be defined and researched before the partners can start developement. A challenge working group might split up in to multiple solution working groups, since there might be multiple possible solutions for a challenge.
 
 * __Formulate Solution Definition__: An Agile replacement of the specifications of software (D3.7).
 * __Metrics__: Define metrics of success, including metrics to measure increased development efficacy (D4.10), quality and cost of public service delivery (D5.2) to report on SCORE indicators.
@@ -11,8 +11,6 @@ Once a [challenge working group](2-working-groups.md) has come up with a solutio
 * __Communication__: Work with D2.6 team to define a marketing and social media plan to connect with the wider ecosystem and bring in other interested partners/developers in the development.
 
 The solution definition is developed (version controlled) on GitHub so it can serve as a base for continuous development. The solution working group also uses GitHub Issues to track issues and work related to this project. In addition to this there can be a category on the [SCORE Community](https://score.community) for higher level communications.
-
-This phase is followed by [Setting up Developer team Collaboration (Months 5 to 6)](4-development-preparations.md).
 
 ## IoT Registry example story:
 
