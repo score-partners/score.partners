@@ -4,7 +4,7 @@
     height: 64px;
     display: flex;
   }
-  header>* {
+  header>a {
     max-width: 100%;
     width: 1110px;
     padding: 8px 0;
@@ -12,12 +12,15 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    cursor: pointer;
+    text-decoration: none;
   }
   header h1 {
     display: inline;
     font-weight: 300;
     color: #039;
     margin: 0 0 0 12px;
+    cursor: inherit;
   }
   header img {
     display: inline;
@@ -29,8 +32,8 @@
 </style>
 
 <header>
-  <div>
+  <a href="/">
     <img alt="Interreg SCORE logo in a hexagon" src="/assets/logo-hexagon.svg">
     <h1><strong>SCORE</strong> partners</h1>
-  </div>
+  </a>
 </header>
