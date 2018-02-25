@@ -2,12 +2,12 @@
 
 Developer teams repeat iterative development sprints (D4.6) as long as the development is active.
 
-* Sprint planning meetings to decide what they are going to pick up from the backlog.
-* Sprint for developers to completely focus on building the code and features.
-* Team retrospectives to discuss what happened in the sprint and what is impeding their progress or working well.
-* Project retrospectives to discuss what is going well or impeding the process in the development.
-* Project Demo to present what they have done the past sprint to the problem owners and other partner stakeholders (D2.9) and review if the work has changed the metrics set at the beginning of the project.
-* Documentation During the sprint the documentation on how to reuse the solution (for D5.1 and D5.5) is continually updated.
+* __Sprint planning__ meetings to decide what they are going to pick up from the backlog.
+* __Sprint__ for developers to completely focus on building the code and features.
+* __Team retrospectives__ to discuss what happened in the sprint and what is impeding their progress or working well.
+* __Project retrospectives__ to discuss what is going well or impeding the process in the development.
+* __Project Demo__ to present what they have done the past sprint to the problem owners and other partner stakeholders (D2.9) and review if the work has changed the metrics set at the beginning of the project.
+* __Document__ during the sprint on how to reuse the solution (for D5.1 and D5.5), the documentation is is continually updated.
 
 This phase is followed by [Living Lab implementation (Months 9 to 12)](6-living-lab.md).
 
