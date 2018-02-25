@@ -36,6 +36,13 @@
     a:hover {
       color: #039;
     }
+
+    a#edit-link {
+      display: inline-block;
+      background: #fc0;
+      padding: 8px;
+      text-decoration: none;
+    }
   </style>
 </head>
 <body>
@@ -44,6 +51,7 @@
   <main>
     {% include sidebar.liquid %}
     <section id="content">
+    <a href="https://github.com/score-partners/score.partners/edit/master/{{ page.path }}" id="edit-link">📝 Propose changes to this page</a>
     {{ content }}
     </section>
   </main>
