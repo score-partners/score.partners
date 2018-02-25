@@ -1,14 +1,25 @@
 # WP3 - Working Groups (Months 0 to 3)
 
-Based on an the initial clustering, the working group consisting of problem owners from each co-developing city, and at least a product owner and technical team member and a representative from the testing cities.
+To find possible solutions for shared [challenges](/glossary/challenge.md) partners come together in [working groups](/glossary/working-group.md).
 
-1. Plan: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the working group, that also integrates with the overall project plan.
-2. Common architecture: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of both partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
-3. Agree solution: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
-4. Research: Researches existing Open Source solutions or libraries that can be adapted and built on.
-5. Commit: Ensure internal support in each city to continue to the project definition phase
+The working group consist of:
 
-This phase is followed by [Project Definition (Months 3 to 5)](project-definition.md).
+* problem owners from each co-developing city
+* product owners form each co-developing city
+* technical team membera from the co-developing cities
+* a representative from each testing cities.
+
+The working group does the following:
+
+* **Common architecture**: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of both partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
+* **Research**: Researches existing Open Source solutions or libraries that can be adapted and built on.
+* **Commit**: Ensure internal support in each city to continue to the project definition phase
+* **Agree solution**: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
+* **Plan**: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the working group, that also integrates with the overall project plan.
+
+Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups forum. In that forum there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
+
+This phase is followed by [Project Definition (Months 3 to 5)](solution-definition.md).
 
 ## IoT Registry Project example story of operationalising working groups:
 

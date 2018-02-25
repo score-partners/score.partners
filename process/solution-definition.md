@@ -1,4 +1,4 @@
-# WP 3/4 - Project Definition (Months 3 to 5)
+# WP 3/4 - Solution Definition (Months 3 to 5)
 
 Once approved, product owners and developers from each co-developing city defined what to develop. The project definition serves as an Agile replacement of the specifications of software (D3.7).
 

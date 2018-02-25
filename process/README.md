@@ -30,7 +30,7 @@ This plan provides a step by step overview of the collaborative development proc
 
 * Select and define challenges
 * [Working Groups (Month 0 to 3)](working-groups.md)
-* [Project Definition (Months 3 to 5)](project-definition.md)
+* [Solution Definition (Months 3 to 5)](solution-definition.md)
 * [Setting up Developer team Collaboration (Months 5 to 6)](development-setup.md)
 * [Iterative development sprint (Months 6 to 9)](development-sprints.md)
 * [Living Lab implementation (Months 9 to 12)](living-lab.md)
