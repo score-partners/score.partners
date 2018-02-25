@@ -7,11 +7,30 @@
   header>* {
     max-width: 100%;
     width: 1110px;
-    padding: 12px 0;
+    padding: 8px 0;
     margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  header h1 {
+    display: inline;
+    font-weight: 300;
+    color: #039;
+    margin: 0 0 0 12px;
+  }
+  header img {
+    display: inline;
+    max-height: 40px;
+  }
+  header h1>strong {
+    font-weight: bold;
   }
 </style>
 
 <header>
-  <h1>SCORE Partner site</h1>
+  <div>
+    <img alt="Interreg SCORE logo in a hexagon" src="/assets/logo-hexagon.svg">
+    <h1><strong>SCORE</strong> partners</h1>
+  </div>
 </header>

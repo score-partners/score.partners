@@ -1,4 +1,4 @@
-# SCORE Partners
+# The SCORE Partners website
 
 This is the website for the EU Interreg North Sea Region SCORE partners.
 
