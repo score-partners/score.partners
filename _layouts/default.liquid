@@ -26,7 +26,8 @@
       flex-direction: row;
     }
     section#content {
-      padding: 32px;
+      padding: 0 32px 32px 32px;
+      width: 100%;
     }
     
     /* General styling */
@@ -37,9 +38,13 @@
       color: #039;
     }
 
-    a#edit-link {
+    #edit-links {
+      text-align: right;
+    }
+
+    #edit-links>a {
       display: inline-block;
-      background: #fc0;
+      background: #eee;
       padding: 8px;
       text-decoration: none;
     }
@@ -51,7 +56,10 @@
   <main>
     {% include sidebar.liquid %}
     <section id="content">
-    <a href="https://github.com/score-partners/score.partners/edit/master/{{ page.path }}" id="edit-link">📝 Propose changes to this page</a>
+    <div id="edit-links">
+      <a href="https://github.com/score-partners/score.partners/issues/new?body=I'd like to report an issue in `{{ page.path }}`">⚠️ Report issue with this page</a>
+      <a href="https://github.com/score-partners/score.partners/edit/master/{{ page.path }}">📝 Propose changes to this page</a>
+    </div>
     {{ content }}
     </section>
   </main>
