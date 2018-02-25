@@ -19,7 +19,7 @@ The working group does the following:
 
 Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups forum. In that forum there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
 
-__This phase is followed by [Project Definition (Months 3 to 5)](3-solution-definition.md).__
+This phase is followed by [Project Definition (Months 3 to 5)](3-solution-definition.md).
 
 ## IoT Registry Project example story:
 
