@@ -1,6 +1,6 @@
 # Working Groups
 
-To find possible solutions for shared [challenges](/glossary/challenge.md) partners come together in [working groups](/glossary/working-group.md).
+To find possible [solutions](/glossary/solutions.md) for shared [challenges](/glossary/challenge.md) partners come together in challenge [working groups](/glossary/working-group.md).
 
 The working group consist of:
 
@@ -11,15 +11,15 @@ The working group consist of:
 
 The working group does the following:
 
-* __Common architecture__: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of both partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
+* __Common architecture__: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of involved solution developement partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
 * __Research__: Researches existing Open Source solutions or libraries that can be adapted and built on.
 * __Commit__: Ensure internal support in each partner to continue to the project definition phase
-* __Agree solution__: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
 * __Plan__: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the working group, that also integrates with the overall project plan.
+* __Start solution definition__: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
 
 Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups forum. In that forum there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
 
-This phase is followed by [Project Definition (Months 3 to 5)](3-solution-definition.md).
+__This phase is followed by [Project Definition (Months 3 to 5)](3-solution-definition.md).__
 
 ## IoT Registry Project example story:
 

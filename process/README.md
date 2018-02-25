@@ -8,15 +8,17 @@ This plan provides a step by step overview of the collaborative development proc
 
 ## Phases and planning
 
+![SCORE Process](/assets/score-process.svg)
+
 | Phase                         | Planning |
 |-------------------------------|----------|
-| Select and define challenges  | Ongoing |
-| [Working Groups](2-working-groups.md) | Month 0 to 3 |
+| [Discovery: Research and cluster shared challenges](1-challenge-discovery)  | Ongoing |
+| [Challenge research working groups](2-working-groups.md) | Month 0 to 3 |
 | [Solution Definition](3-solution-definition.md) | Months 3 to 5 |
-| [Setting up Developer team Collaboration ](4-development-setup.md) | Months 5 to 6 |
-| [Iterative development sprint](5-development-sprints.md) | Months 6 to 9 |
+| [Development Preparations](4-development-preparations.md) | Months 5 to 6 |
+| [Development sprints](5-development-sprints.md) | Months 6 to 9 |
 | [Living Lab implementation](6-living-lab.md) | Months 9 to 12 |
-| [Reuse and upscaling](7-reuse-and-scaling.md) | Months 12 to 24 |
+| [Reuse and scaling](7-reuse-and-scaling.md) | Months 12 to 24 |
 | Ongoing maintainance          | Ongoing |
 
 ## About this process

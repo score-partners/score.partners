@@ -1,6 +1,6 @@
 # Reuse and upscaling
 
-In order to support as much reuse of the code as possible the developing partners have to make an agreement as to how to provide ongoing project governance, including:
+In order to support as much reuse of the code as possible the solution working groups have to make an agreement as to how to provide ongoing project governance, including:
 
 * __Support plan__: Deciding on a plan to continue support and reuse of the project.
 * __Replication workshop__: Presenting the solution in a workshop (D4.7) to encourage replication of the solution (D5.3 and D5.6) in other cities not involved in development process.

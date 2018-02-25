@@ -1,11 +1,11 @@
 # Living Lab implementation
 
-Implement and test the solution with at least 2 Living Lab partners who will;
+Living Lab partners – at least 2 – will test and implement a solution in their Living Lab.
 
-* __Implement solutions in Living Lab cities__ (D5.3) based on the documentation developed in (D5.1 and D5.5), supported by a member of the original development team (D2.8)
+* __Implement solutions in Living Lab cities__ (D5.3) based on the documentation developed in (D5.1 and D5.5), supported by  the solution working groups (D2.8)
 * __Measure the effectivity__ of the implementations (D5.2). 
-* __Receive support__ from the original development teams who take this opportunity to improve the Integration and demonstration plan (D5.1), increasing the reusability of the project.
-* __Feedback problems__ and bugs to the original development teams so they can  improve the code (D4.8 and D5.4).
+* __Receive support__ from the solution working groups teams who take this opportunity to improve the Integration and demonstration plan (D5.1), increasing the reusability of the project.
+* __Feedback problems__ and bugs to the solution working groups teams so they can improve the solution (D4.8 and D5.4).
 
 This phase is followed by [Reuse and upscaling (Months 12 to 24)](7-reuse-and-scaling.md).
 

@@ -1,6 +1,8 @@
 # Iterative development sprint
 
-Developer teams repeat iterative development sprints (D4.6) as long as the development is active.
+Solution working groups repeat iterative development sprints (D4.6) as long as the development is active.
+
+Every sprint the following is done:
 
 * __Sprint planning__ meetings to decide what they are going to pick up from the backlog.
 * __Sprint__ for developers to completely focus on building the code and features.
