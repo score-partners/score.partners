@@ -1,7 +1,3 @@
----
-permalink: /process/
----
-
 # The process for transnational development
 
 This plan provides a step by step overview of the collaborative development process. Each step includes examples of a hypothetical use case, in which Aarhus and Amsterdam take stock of their needs and situation, decide to co-develop a solution building on the Open Source Sentilo platform, and test further deployment with Living Labs in Göteborg and Ghent implementing and testing the solution, fixing the bugs that surface, as well as improving it for further deployment.
