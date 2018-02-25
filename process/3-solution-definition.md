@@ -1,4 +1,4 @@
-# WP 3/4 - Solution Definition (Months 3 to 5)
+# Solution Definition
 
 Once approved, product owners and developers from each co-developing partner defined what to develop. The project definition serves as an Agile replacement of the specifications of software (D3.7).
 
@@ -9,7 +9,7 @@ Once approved, product owners and developers from each co-developing partner def
 5. Backlog: Create a ‘backlog’ of all of the problems that need to be solved and requirements with the problem owners.
 6. Communication: Work with D2.6 team to define a marketing and social media plan to connect with the wider ecosystem and bring in other interested partners/developers in the development.
 
-This phase is followed by [Setting up Developer team Collaboration (Months 5 to 6)](development-setup.md).
+This phase is followed by [Setting up Developer team Collaboration (Months 5 to 6)](4-development-setup.md).
 
 ## IoT Registry Project example story of project definition:
 

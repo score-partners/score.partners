@@ -1,6 +1,6 @@
-# WP 4 - Setting up Developer team Collaboration (D4.5) (Months 5 to 6)
+# Setting up Developer team Collaboration
 
-Based on the solution definition, cities free up development resources to staff the development teams with product owners and developers (D4.5). Teams from different co-developing cities work to solve a single problem and work on a single codebase. These:
+Based on the solution definition, partners free up development resources to staff the development teams with product owners and developers (D4.5). Teams from different co-developing partners work to solve a single problem and work on a single codebase. These:
 
 1. Team planning: Set up team planning, decide sprint length, usually 1 or 2 weeks.
 2. Development environment: Set up project development environment and collaboration tools.
@@ -8,7 +8,7 @@ Based on the solution definition, cities free up development resources to staff 
 4. Organise backlog together with the product owners make sure it is actionable. This happens with input from the problem owners (D2.9).
 5. Review: Bradford will coordinate how regular peer-to-peer code reviews will take place (D4.4)
 
-This phase is followed by [Iterative development sprint (Months 6 to 9)](development-sprints.md).
+This phase is followed by [Iterative development sprint (Months 6 to 9)](5-development-sprints.md).
 
 ## IoT Registry Project example story of developer team collaboration:
 

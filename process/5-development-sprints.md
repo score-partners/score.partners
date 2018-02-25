@@ -1,4 +1,4 @@
-# Iterative development sprint (Months 6 to 9)
+# Iterative development sprint
 
 Developer teams repeat iterative development sprints (D4.6) as long as the development is active.
 
@@ -6,10 +6,10 @@ Developer teams repeat iterative development sprints (D4.6) as long as the devel
 * Sprint for developers to completely focus on building the code and features.
 * Team retrospectives to discuss what happened in the sprint and what is impeding their progress or working well.
 * Project retrospectives to discuss what is going well or impeding the process in the development.
-* Project Demo to present what they have done the past sprint to the problem owners and other city stakeholders (D2.9) and review if the work has changed the metrics set at the beginning of the project.
+* Project Demo to present what they have done the past sprint to the problem owners and other partner stakeholders (D2.9) and review if the work has changed the metrics set at the beginning of the project.
 * Documentation During the sprint the documentation on how to reuse the solution (for D5.1 and D5.5) is continually updated.
 
-This phase is followed by [Living Lab implementation (Months 9 to 12)](living-lab.md).
+This phase is followed by [Living Lab implementation (Months 9 to 12)](6-living-lab.md).
 
 ## IoT Registry Project example story of iterative development sprint:
 

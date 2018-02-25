@@ -1,4 +1,4 @@
-# WP3 - Working Groups (Months 0 to 3)
+# Working Groups
 
 To find possible solutions for shared [challenges](/glossary/challenge.md) partners come together in [working groups](/glossary/working-group.md).
 
@@ -6,7 +6,7 @@ The working group consist of:
 
 * problem owners from each co-developing partner
 * product owners form each co-developing partner
-* technical team member from the co-developing partners
+* technical team members from the co-developing partners
 * a representative from each testing partners.
 
 The working group does the following:
@@ -19,7 +19,7 @@ The working group does the following:
 
 Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups forum. In that forum there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
 
-This phase is followed by [Project Definition (Months 3 to 5)](solution-definition.md).
+This phase is followed by [Project Definition (Months 3 to 5)](3-solution-definition.md).
 
 ## IoT Registry Project example story of operationalising working groups:
 
