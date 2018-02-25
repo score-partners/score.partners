@@ -4,16 +4,16 @@ To find possible solutions for shared [challenges](/glossary/challenge.md) partn
 
 The working group consist of:
 
-* problem owners from each co-developing city
-* product owners form each co-developing city
-* technical team membera from the co-developing cities
-* a representative from each testing cities.
+* problem owners from each co-developing partner
+* product owners form each co-developing partner
+* technical team member from the co-developing partners
+* a representative from each testing partners.
 
 The working group does the following:
 
 * **Common architecture**: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of both partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
 * **Research**: Researches existing Open Source solutions or libraries that can be adapted and built on.
-* **Commit**: Ensure internal support in each city to continue to the project definition phase
+* **Commit**: Ensure internal support in each partner to continue to the project definition phase
 * **Agree solution**: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
 * **Plan**: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the working group, that also integrates with the overall project plan.
 
