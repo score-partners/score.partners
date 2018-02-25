@@ -3,6 +3,7 @@
 Once a [challenge research working group](2-research.md) has come up with a solution it needs to be defined and researched before the partners can start development. A challenge working group might split up in to multiple solution working groups, since there might be multiple possible solutions for a challenge.
 
 * __Formulate Solution Definition__: An Agile replacement of the specifications of software (D3.7).
+* __Plan__: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the solution working group, that also integrates with the overall project plan.
 * __Metrics__: Define metrics of success, including metrics to measure increased development efficacy (D4.10), quality and cost of public service delivery (D5.2) to report on SCORE indicators.
 * __Architectural principles__: Define basic architecture and architectural principles.
 * __Codebase__: Decide on a fitting solution and codebase governance model for this specific solution.
