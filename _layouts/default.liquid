@@ -20,6 +20,14 @@
       padding: 0 8px;
       font-size: 16px;
     }
+
+    main {
+      display: flex;
+      flex-direction: row;
+    }
+    section#content {
+      padding: 32px;
+    }
     
     /* General styling */
     a:link, a:visited, a:active {
@@ -34,7 +42,10 @@
   {% include score-nav.html %}
   {% include header.html %}
   <main>
+    {% include sidebar.liquid %}
+    <section id="content">
     {{ content }}
+    </section>
   </main>
   {% include footer.html %}
 </body>

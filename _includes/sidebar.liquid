@@ -1,0 +1,35 @@
+<style>
+  section#sidebar {
+    max-width: 240px;
+    padding: 16px;
+    border-right: 1px solid #fc0;
+  }
+  section#sidebar h3 {
+    font-weight: normal;
+  }
+  section#sidebar .active {
+    font-weight: bold;
+  }
+</style>
+
+<section id="sidebar">
+  <h3 class="{% if page.path == 'index.md' %}active{% endif %}"><a href="/">Home</a>
+
+  <h3 class="{% if page.path == 'process/README.md' %}active{% endif %}"><a href="/process/">Process</a></h3>
+  <ol id="process-items">
+  {% for item in site.pages %}
+    {% if item.inProcess == true and item.name != "README.md" %}
+      <li class="{% if item.name == page.name %}active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ol>
+
+  <h3 class="{% if page.path == 'glossary/README.md' %}active{% endif %}"><a href="/glossary/">Glossary</a></h3>
+  <ul id="glossary-items">
+  {% for item in site.pages %}
+    {% if item.inGlossary == true and item.name != "README.md" %}
+      <li class="{% if item.name == page.name %}active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</section>

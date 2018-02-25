@@ -1,0 +1,9 @@
+defaults:
+  - scope:
+      path: "process"
+    values:
+      inProcess: true
+  - scope:
+      path: "glossary"
+    values:
+      inGlossary: true
