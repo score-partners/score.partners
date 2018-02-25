@@ -1,6 +1,6 @@
 # Development Preparations
 
-Based on the [solution definition](3-definition.md), solution [working groups](/glossary/working-group.md) prepare developement and free up development resources to staff the development teams with the product owners and developers (D4.5).
+Based on the [solution definition](3-definition.md), solution [working groups](/glossary/working-group.md) prepare development and free up development resources to staff the development teams with the product owners and developers (D4.5).
 
 * __Team planning__: Set up team planning, decide on a shared sprint length.
 * __Development environment__: Set up project development environment and collaboration tools.

@@ -11,7 +11,7 @@ The working group consist of:
 
 The working group does the following:
 
-* __Common architecture__: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of involved solution developement partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
+* __Common architecture__: Reviews survey done by Uni of Bradford (D4.1) to assess the available data and technical architecture of involved solution development partners, implementation opportunities in the Living Labs, and what would be reasonable architecture to deploy the projects further.
 * __Research__: Researches existing Open Source solutions or libraries that can be adapted and built on.
 * __Commit__: Ensure internal support in each partner to continue to the project definition phase
 * __Plan__: Sets up common 2 year working group timeline, key milestones and collaboration structures to ensure a coherent working method for the working group, that also integrates with the overall project plan.
