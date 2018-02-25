@@ -11,6 +11,6 @@ Developer teams repeat iterative development sprints (D4.6) as long as the devel
 
 This phase is followed by [Living Lab implementation (Months 9 to 12)](6-living-lab.md).
 
-## IoT Registry Project example story of iterative development sprint:
+## IoT Registry Project example story:
 
-In multiple iterative sprints of 1 week the teams quickly build the features they want to develop, starting with a working version of Sentilo in the first week and the new sign-up forms required for Amsterdam’s legal role in the second week. At the end of the second sprint both teams are able to run a beta version of the new platform on their own infrastructure enabling the problem owners and their departments to try out the platform while it is being developed. This, as well as the tracked metrics, provides insight and feedback into the production process, for instance a local Amsterdam IoT Fablab group tries out the new system and finds that almost all of their devices need a JSON api that is not yet available on the platform.
+> In multiple iterative sprints of 1 week the teams quickly build the features they want to develop, starting with a working version of Sentilo in the first week and the new sign-up forms required for Amsterdam’s legal role in the second week. At the end of the second sprint both teams are able to run a beta version of the new platform on their own infrastructure enabling the problem owners and their departments to try out the platform while it is being developed. This, as well as the tracked metrics, provides insight and feedback into the production process, for instance a local Amsterdam IoT Fablab group tries out the new system and finds that almost all of their devices need a JSON api that is not yet available on the platform.

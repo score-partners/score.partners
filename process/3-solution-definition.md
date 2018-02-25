@@ -11,6 +11,6 @@ Once approved, product owners and developers from each co-developing partner def
 
 This phase is followed by [Setting up Developer team Collaboration (Months 5 to 6)](4-development-setup.md).
 
-## IoT Registry Project example story of project definition:
+## IoT Registry Project example story:
 
-The teams from Amsterdam and Aarhus, both with developers and project owners on them, work together to draft a mission statement for the project, collect user stories from real future users and catalogue the requirements, including a plan of how to effectively test the Docker containers in their actual clouds.  The teams decide to host  both code and discussions on GitHub. Because the cities want others to contribute to the project as much as possible a project governance and contributor model is drafted. This outlines how future collaborators can join, and that the code will be published under a a EUPL licence.
+> The teams from Amsterdam and Aarhus, both with developers and project owners on them, work together to draft a mission statement for the project, collect user stories from real future users and catalogue the requirements, including a plan of how to effectively test the Docker containers in their actual clouds.  The teams decide to host  both code and discussions on GitHub. Because the cities want others to contribute to the project as much as possible a project governance and contributor model is drafted. This outlines how future collaborators can join, and that the code will be published under a a EUPL licence.

@@ -10,6 +10,6 @@ Based on the solution definition, partners free up development resources to staf
 
 This phase is followed by [Iterative development sprint (Months 6 to 9)](5-development-sprints.md).
 
-## IoT Registry Project example story of developer team collaboration:
+## IoT Registry Project example story:
 
-Amsterdam and Aarhus both provide a team of 1 product owner and 2 front-end developers and 1 back end developer for the entire project. The product owner and a developer set up the project infrastructure (GitHub, Licence and Contributing guidelines, Issue and PR templates), build systems (a Jenkins server) and set up a shared tools for Continuous Integration testing (Coveralls, Greenkeeper)
+> Amsterdam and Aarhus both provide a team of 1 product owner and 2 front-end developers and 1 back end developer for the entire project. The product owner and a developer set up the project infrastructure (GitHub, Licence and Contributing guidelines, Issue and PR templates), build systems (a Jenkins server) and set up a shared tools for Continuous Integration testing (Coveralls, Greenkeeper)
