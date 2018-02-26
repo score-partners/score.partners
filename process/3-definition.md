@@ -1,4 +1,4 @@
-# Solution Definition
+# Definition: solutions
 
 Once a [challenge research working group](2-research.md) has come up with a solution it needs to be defined and researched before the partners can start development. A challenge working group might split up in to multiple solution working groups, since there might be multiple possible solutions for a challenge.
 

@@ -8,13 +8,13 @@ This plan provides a step by step overview of the collaborative development proc
 
 | Phase                         | Planning |
 |-------------------------------|----------|
-| [Discovery: Research and cluster shared challenges](1-discovery)  | Ongoing |
-| [Challenge research working groups](2-research.md) | Month 0 to 3 |
-| [Solution Definition](3-definition.md) | Months 3 to 5 |
-| [Development Preparations](4-preparation.md) | Months 5 to 6 |
-| [Development sprints](5-development.md) | Months 6 to 9 |
-| [Living Lab implementation](6-testing.md) | Months 9 to 12 |
-| [Reuse and scaling](7-scaling.md) | Months 12 to 24 |
+| [__Discovery__: identify shared challenges](1-discovery)  | Ongoing |
+| [__Research__: challenge working groups](2-research.md) | Month 0 to 3 |
+| [__Definition__: discover solutions](3-definition.md) | Months 3 to 5 |
+| [__Preparation__: development set up](4-preparation.md) | Months 5 to 6 |
+| [__Development__: iterative sprints](5-development.md) | Months 6 to 9 |
+| [__Testing__: Living Lab implementation](6-testing.md) | Months 9 to 12 |
+| [__Scaling__: reuse and dissemination](7-scaling.md) | Months 12 to 24 |
 | Ongoing maintainance          | Ongoing |
 
 ## About this process

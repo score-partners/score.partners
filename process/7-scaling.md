@@ -1,4 +1,4 @@
-# Reuse and upscaling
+# Scaling: reuse and dissemination
 
 In order to support as much reuse of the code as possible the solution working groups have to make an agreement as to how to provide ongoing governance, including:
 

@@ -1,4 +1,4 @@
-# Iterative development sprint
+# Development: iterative sprints
 
 Solution working groups repeat iterative development sprints (D4.6) as long as the development is active.
 

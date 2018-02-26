@@ -1,4 +1,4 @@
-# Development Preparations
+# Preparation: development set up
 
 Based on the [solution definition](3-definition.md), solution [working groups](/glossary/working-group.md) prepare development and free up development resources to staff the development teams with the product owners and developers (D4.5).
 

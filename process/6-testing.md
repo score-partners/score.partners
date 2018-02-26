@@ -1,4 +1,4 @@
-# Living Lab implementation
+# Testing: Living Lab implementation
 
 Living Lab partners – at least 2 – will test and implement a solution in their Living Lab.
 
