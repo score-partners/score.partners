@@ -55,6 +55,10 @@
       padding: 8px;
       text-decoration: none;
     }
+    #edit-links>a>svg {
+      bottom: -2px;
+      position: relative;
+    }
 
     table {
       border-spacing: 0;
@@ -69,8 +73,8 @@
     {% include sidebar.liquid %}
     <section id="content">
     <div id="edit-links">
-      <a href="https://github.com/score-partners/score.partners/issues/new?body=I'd like to report an issue in `{{ page.path }}`">📥 File issue on this page</a>
-      <a href="https://github.com/score-partners/score.partners/edit/master/{{ page.path }}">📝 Edit on GitHub</a>
+      <a href="https://github.com/score-partners/score.partners/issues/new?body=I'd like to report an issue in `{{ page.path }}`">{% include github-issue.svg %} File issue on this page</a>
+      <a href="https://github.com/score-partners/score.partners/edit/master/{{ page.path }}">{% include github-pr.svg %} Edit on GitHub</a>
     </div>
     <article>
       {{ content }}
