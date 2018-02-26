@@ -1,6 +1,6 @@
 # The SCORE Partners website
 
-This is the website for the EU Interreg North Sea Region SCORE partners.
+This is the documentation for the EU Interreg North Sea Region SCORE partners.
 
 Documentation:
 
