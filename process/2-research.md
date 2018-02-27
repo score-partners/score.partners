@@ -1,6 +1,6 @@
 # Research: challenge working groups
 
-To find possible solutions for shared challenges partners come together in challenge /glossary/working-group.md.
+To find possible solutions for shared challenges partners come together in challenge working group.
 
 The working group consist of:
 
