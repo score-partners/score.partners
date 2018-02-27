@@ -1,5 +1,5 @@
 # score.partners
-The partner website for the Interreg SCORE project.
+The partner website for the Interreg SCORE project. This serves as internal documentation on the process and moving parts of SCORE.
 
 ## Contributing
 
