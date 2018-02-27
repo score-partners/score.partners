@@ -1,6 +1,6 @@
 # Research: challenge working groups
 
-To find possible [solution](/glossary/solutions.md) for shared [challenges](/glossary/challenge.md) partners come together in challenge [working groups](/glossary/working-group.md).
+To find possible [solutions](/glossary/solution.md) for shared [challenges](/glossary/challenge.md) partners come together in challenge [working groups](/glossary/working-group.md).
 
 The working group consist of:
 
