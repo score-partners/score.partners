@@ -8,7 +8,7 @@ This plan provides a step by step overview of the collaborative development proc
 
 | Phase                         | Planning |
 |-------------------------------|----------|
-| [__Discovery__: identify shared challenges](1-discovery)  | Ongoing |
+| [__Discovery__: identify shared challenges](1-discovery.md)  | Ongoing |
 | [__Research__: challenge working groups](2-research.md) | Month 0 to 3 |
 | [__Definition__: discover solutions](3-definition.md) | Months 3 to 5 |
 | [__Preparation__: development set up](4-preparation.md) | Months 5 to 6 |
