@@ -14,8 +14,10 @@ Clicking the button will open a menu with your options.
 
 ## Notification options
 
-The notification menu provides options ranging from 'Watching', for which you will be notified of everything that happens, to 'Muted' which means you will not receive any notifications, even if someone mentions you by name specifically.
-
 ![Notification button menu with the options](../assets/notifications-button-menu.png)
 
-We suggest going through the categories and setting the Notification options to what is relevant to you and what you are involved in.
+The notification menu provides options ranging from 'Watching', for which you will be notified of everything that happens, to 'Muted' which means you will not receive any notifications, even if someone mentions you by name specifically.
+
+## Choosing how much you want to get notified
+
+We suggest going through the categories and setting the Notification options to what is relevant to you and what you are involved in. For instance, this might mean setting every working group category you are involved with, and the work package working group to 'Watching' and the rest to something lower.
