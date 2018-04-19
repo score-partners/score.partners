@@ -73,10 +73,12 @@
   <main>
     {% include sidebar.liquid %}
     <section id="content">
+    {% if page.path != '404.md' %}
     <div id="edit-links">
       <a href="https://github.com/score-partners/score.partners/issues/new?body=I'd like to report an issue in `{{ page.path }}`">{% include github-issue.svg %} File issue on this page</a>
       <a href="https://github.com/score-partners/score.partners/edit/master/{{ page.path }}">{% include github-pr.svg %} Edit on GitHub</a>
     </div>
+    {% endif %}
     <article>
       {{ content }}
     </article>
