@@ -1,6 +1,6 @@
 <style>
   section#sidebar {
-    max-width: 240px;
+    max-width: 360px;
     padding: 16px;
     padding-bottom: 64px;
     border-right: 1px solid #fc0;
@@ -15,6 +15,15 @@
 
 <section id="sidebar">
   <h3 class="{% if page.path == 'index.md' %}active{% endif %}"><a href="/">Home</a>
+
+  <h3 class="{% if page.path == 'guides/README.md' %}active{% endif %}"><a href="/guides/">Guides</a></h3>
+  <ul id="guides-items">
+  {% for item in site.pages %}
+    {% if item.inGuides == true and item.name != "README.md" %}
+      <li class="{% if item.name == page.name %}active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
 
   <h3 class="{% if page.path == 'process/README.md' %}active{% endif %}"><a href="/process/">Process</a></h3>
   <ol id="process-items">
