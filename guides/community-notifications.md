@@ -18,6 +18,8 @@ Clicking the button will open a menu with your options.
 
 The notification menu provides options ranging from 'Watching', for which you will be notified of everything that happens, to 'Muted' which means you will not receive any notifications, even if someone mentions you by name specifically.
 
+If you set the notification options on a category, that setting applies to for the whole category. For example: if you set a category to 'Watching' you will get a notification for every new post, and every reply in that category. The setting on an individual topic overwrites the settings on the category it is in. For example: you can 'Watch' an individual topic whilst 'Muting' the rest of the category.
+
 ## Choosing how much you want to get notified
 
 We suggest going through the categories and setting the Notification options to what is relevant to you and what you are involved in. For instance, this might mean setting every working group category you are involved with, and the work package working group to 'Watching' and the rest to something lower.
