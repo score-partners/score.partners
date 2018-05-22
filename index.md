@@ -2,6 +2,8 @@
 
 This is the documentation for the EU Interreg North Sea Region SCORE partners.
 
+## Where you can find
+
 [Dates & times for SCORE general meetings and teleconferences](https://drive.google.com/drive/folders/1Az0HaQP5zGSIk1jlsftmITsSJWb5ntN4)
 
 [Partnership agreement](https://drive.google.com/open?id=0B_auLtDQpnPSUlczY2ZkQzFtSDg)
