@@ -2,6 +2,37 @@
 
 This is the documentation for the EU Interreg North Sea Region SCORE partners.
 
+## What are the tools
+
+### Website 
+
+Homepage for the world to learn about SCORE 
+
+### For Partners
+
+All the information you need to participate in SCORE (incl index, guides, status, workflow)
+
+### Community forum
+
+Place to communicate with each other
+
+### Files: Google Drive 
+
+Place to save deliverables and project management documents
+
+### Trello 
+
+(Currently not used)
+
+### Code GitHub 
+Place to develop and share code
+
+### Gitter chat
+(to be removed)
+
+### Project management sheet
+Place to keep track of work packages deliverables, reporting targets and timelines
+
 ## Where you can find
 
 * [Dates & times for SCORE general meetings and teleconferences](https://drive.google.com/drive/folders/1Az0HaQP5zGSIk1jlsftmITsSJWb5ntN4)
