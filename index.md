@@ -61,18 +61,17 @@ Place to keep track of work packages deliverables, reporting targets and timelin
 
 * Where are outputs and reports from events saved? Post on the community with relevant links
 * [Minutes of calls and meetings](https://drive.google.com/open?id=1yJ9bKCz3uhGGhx_othd09Bpq_afyyPPl)
-* What solutions are being developed [NOT AVAILABLE YET]
-* [Other cities’ challenges](https://docs.google.com/spreadsheets/d/1xaikhivpKiXqctTN3Rb6pvz8oB6T9EGcIloBYLDaO5Y/edit#gid=0)
-* What challenges are being researched 
 * [Events SCORE will be participating in?](https://score.community/c/events/l/agenda)
 * [Events SCORE partners will be attending](https://score.community/c/events/l/agenda)
-* [Conversations about challenges and how to solve them](https://score.community/c/working-groups)
-* [Feedback on the community and partners site](https://score.community/c/meta)
-* [How to use the community events category on the community](http://score.partners/guides/community-events-category.html)
 
 ### Challenge and solution definitions
 
 * [Conversations and questions about defining the challenges and the solutions](https://score.community/c/work-packages/challenges-and-solutions)
+* [Other cities’ challenges](https://docs.google.com/spreadsheets/d/1xaikhivpKiXqctTN3Rb6pvz8oB6T9EGcIloBYLDaO5Y/edit#gid=0)
+* [What challenges are being researched](https://score.community/c/working-groups)
+* [Conversations about challenges and how to solve them](https://score.community/c/working-groups)
+* [Feedback on the community and partners site](https://score.community/c/meta)
+* [How to use the community events category on the community](http://score.partners/guides/community-events-category.html)
 
 ### Development, testing and scaling
 
