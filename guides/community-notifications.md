@@ -23,3 +23,7 @@ If you set the notification options on a category, that setting applies to for t
 ## Choosing how much you want to get notified
 
 We suggest going through the categories and setting the Notification options to what is relevant to you and what you are involved in. For instance, this might mean setting every working group category you are involved with, and the work package working group to 'Watching' and the rest to something lower.
+
+---
+
+If you have any more questions, please ask us in [the 'Community and partners site' category](https://score.community/c/meta)!
