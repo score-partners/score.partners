@@ -27,3 +27,7 @@ To add an event to your own calendar you can use the 'Add to calendar' button in
 ![17](https://score.community/uploads/default/original/1X/0165f81a5ae20fc7f015cd2e6c8d90fbb23c5fb9.png)
 
 Happy meeting! And as always, let us know your feedback on this community site :slight_smile:
+
+---
+
+If you have any more questions, please ask us in [the 'Community and partners site' category](https://score.community/c/meta)!
