@@ -28,7 +28,7 @@ Copy this link to your personal calendar to have an eazy overview on all the upc
 ![](https://i.imgur.com/1MZ2Tbk.png)
 
 
-**6. Importing to ICal (the same will apply for google cal)**
+**6. Importing to ICal (the same applies to google cal)**
 Open the Ical and go to the "File" tab in the top left corner.
 
 
@@ -46,4 +46,4 @@ Open the Ical and go to the "File" tab in the top left corner.
 
 ![](https://i.imgur.com/GKKXg3Q.png)
 
-Congratulations! The SCORE.community event calender is imported!
+Congratulations! You can now view the SCORE.community calender in your calender!
