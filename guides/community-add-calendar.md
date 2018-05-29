@@ -1,5 +1,5 @@
 
-#How do I add SCORE.community events to your personal calander?
+# **How do I add SCORE.community events to your personal calander?**
 
 **1. Go the SCORE.community website**
 Visit the online platform and click on "Events and conferences"
