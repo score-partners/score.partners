@@ -19,8 +19,7 @@
 
 ![](https://i.imgur.com/1MZ2Tbk.png)
 
-**6. Importing to ICal (the same applies to google cal)**
-Open the Ical and go to the "File" tab in the top left corner
+**6. Import to ICal (the same applies to google cal)**
 
 ![](https://i.imgur.com/JauZz6d.png)
 
@@ -36,4 +35,4 @@ Open the Ical and go to the "File" tab in the top left corner
 
 ![](https://i.imgur.com/GKKXg3Q.png)
 
-Congratulations! You can now view the SCORE.community calender in your calender!
+**Congratulations! You can now view the SCORE.community calender in your calender!**
