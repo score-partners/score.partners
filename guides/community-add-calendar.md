@@ -1,5 +1,5 @@
 
-# **How do I add SCORE.community events to your personal calander?**
+# **How do I add SCORE.community events to my personal calander?**
 
 **1. Go the SCORE.community website**
 Visit the online platform and click on "Events and conferences"
@@ -10,7 +10,6 @@ Visit the online platform and click on "Events and conferences"
 
 ![](https://i.imgur.com/oEtgdZR.png)
 
-Yes, this one! (it will light up in yellow) ![](https://i.imgur.com/dDpQzbf.png)
 
 **3. Great! We found the calendar!**
 To make everything a bit easier, there is the possibility to add/synchronize this calendar to your personal one!
@@ -29,7 +28,7 @@ Copy this link to your personal calendar to have an eazy overview on all the upc
 ![](https://i.imgur.com/1MZ2Tbk.png)
 
 
-**6. Importing to ICal**
+**6. Importing to ICal (the same will apply for google cal)**
 Open the Ical and go to the "File" tab in the top left corner.
 
 
