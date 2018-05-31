@@ -43,7 +43,7 @@ layout: default
 |IoT registry: sensors and signals | Research: challenge working groups  | Definition of use cases and evaluation of prototype produced by Amsterdam |
 
 
-## Deliverable
+## Deliverables
 
 <table id="deliverables-table">
   <tr>
