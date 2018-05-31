@@ -32,7 +32,7 @@ layout: default
   </tr>
 </table>
 
-## Status overview working groups
+## Working groups
 
 | Working group | Phase in process | Required to proceed to next step |
 | ----------- | -------- | -------- |
