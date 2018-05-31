@@ -177,7 +177,8 @@ layout: default
 
       headers.forEach(function(currentHeader) {
         var cellEl = document.createElement("td")
-        var contents = currentRow[currentHeader].toString().trim()
+        var contents = currentRow[currentHeader] || ""
+        contents = contents.toString().trim()
         cellEl.innerText = contents
         cellEl.setAttribute('data-value', contents.replace(/ /g, '-').toLowerCase())
         cellEl.setAttribute('data-header', currentHeader.replace(/ /g, '-').toLowerCase())
