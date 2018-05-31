@@ -48,6 +48,9 @@ layout: default
     <th>
       Status
     </th>
+        <th>
+      Deadline
+    </th>
     <th>
       Last updated
     </th>
