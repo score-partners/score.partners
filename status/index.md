@@ -15,7 +15,7 @@ layout: default
       Easy access to information
     </th>
     <th>
-      Meaningful communication
+      Meaningful communication with other partners
     </th>
     <th>
       Know what to do
