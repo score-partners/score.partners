@@ -12,7 +12,7 @@ layout: default
       Organisation
     </th>
     <th>
-      Access to information
+      Easy access to information
     </th>
     <th>
       Meaningful communication
