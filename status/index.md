@@ -36,11 +36,11 @@ layout: default
 
 | Working group | Phase in process | Required to proceed to next step |
 | ----------- | -------- | -------- |
-|Flooding and drainage   | Research: challenge working groups | More sharing of information on sensors, data structure/models, existing open source visualisation & modelling software and particular use cases     |
-|Impact of events on mobility    | Research: challenge working groups    | Partners to agree on common challenge/use case, ideas of solution and requirements to move forward  |
-|Mobility hubs     |  Research: challenge working groups   | Temporarily on hold 
+|Flooding and drainage   | Research: challenge working groups | Sharing of information on sensors, data structure/models, existing open source visualisation & modelling software and particular use cases     |
+|Impact of events on mobility    | Research: challenge working groups    | Partners to agree on common challenge/use case, ideas of solution and requirements to move forward. Exploring the replication of Drukte Radar, Tmaas, Monithor, etc |
+|Mobility hubs     |  Research: challenge working groups   | Exploring the replication of Trafikken.nu
 | Travel Time| Research: challenge working groups | Discussion on business casing and use of proprietary software
-|IoT registry: sensors and signals | Research: challenge working groups  | Definition of use cases and evaluation of prototype produced by Amsterdam |
+|IoT registry: sensors and signals | Research: challenge working groups  | Evaluation of prototype produced by Amsterdam |
 
 
 ## Deliverables
