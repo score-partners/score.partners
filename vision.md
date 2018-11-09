@@ -1,0 +1,5 @@
+# Vision
+
+> The goal of this document is to set out the vision SCORE so that it is understandable for those inside and outside of the project. This document should answer the question whether something is within the scope of SCORE or not.
+
+SCORE is a partnership of governments, universities and other organisations that collaboratively discover, develop and test Open [solutions](glossary/solution.md) for the challenges of cities.

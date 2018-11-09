@@ -4,6 +4,10 @@ This is the documentation for the EU Interreg North Sea Region SCORE partners.
 
 ## What are the tools
 
+### [SCORE vision](vision.md)
+
+What we are trying to achieve in SCORE.
+
 ### [Website about SCORE](http://northsearegion.eu/score)
 
 Homepage for the world to learn about SCORE 
@@ -72,6 +76,7 @@ Place to keep track of work packages deliverables, reporting targets and timelin
 * [Conversations about challenges and how to solve them](https://score.community/c/working-groups)
 * [Feedback on the community and partners site](https://score.community/c/meta)
 * [How to use the community events category on the community](http://score.partners/guides/community-events-category.html)
+* [The vision for SCORE and what can be in it](vision.md)
 
 ### Development, testing and scaling
 
