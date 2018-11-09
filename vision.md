@@ -5,3 +5,5 @@
 SCORE is a partnership of governments, universities and other organisations that collaboratively discover, develop and test Open [solutions](glossary/solution.md) for the challenges of cities.
 The SCORE [partners](glossary/partner.md) leverage [Open Collaboration](glossary/open-collaboration.md) methodologies – Open Source, Open Data, Open Standards and an open attitude – to learn together, communicate effectively, share challenges and collaborate on solutions with the goal of improving public service delivery in our cities.
 
+By working Open we create a partnership of cities that are used to sharing and identifying common [challenges](glossary/challenge.md) as well as re-using each others solutions, improving them collaboratively and sharing their own. We learn how to solve our own challenges whilst both learning from and teaching to the others. We solve the challenges of our cities together.
+
