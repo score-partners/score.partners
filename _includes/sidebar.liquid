@@ -17,7 +17,7 @@
 <section id="sidebar">
   <h3 class="{% if page.path == 'index.md' %}active{% endif %}"><a href="/">Home</a>
 
-  <h3 class="{% if page.path == 'status/index.md' %}active{% endif %}"><a href="/status/">Status</a></h3>
+  <h3 class="{% if page.path == 'status/index.md' %}active{% endif %}"><a href="/status/">Partner statuses</a></h3>
   <ul id="status-items">
   {% for item in site.pages %}
     {% if item.inStatus == true and item.name != "README.md" %}
