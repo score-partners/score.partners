@@ -10,7 +10,7 @@ Overview of working group members:
 * problem owners from each co-developing partner
 * product owners form each co-developing partner
 * technical team members from the co-developing partners
-* a representative from each testing partners
+* Optionally: a representative from each testing partners
 
 The working group does the following:
 
