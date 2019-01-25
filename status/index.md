@@ -33,7 +33,7 @@ layout: default
 </table>
 
 ## Working groups
-For an overview of the active working groups, please see [Overview of active working groups](https://docs.google.com/spreadsheets/d/1moOu1tkTcBKBrCvEdgtAMQ9EAZpOS0aAfN2g9Qkxvls/edit?usp=sharing)
+For an overview of the active working groups, please see [**Overview of active working groups**](https://docs.google.com/spreadsheets/d/1moOu1tkTcBKBrCvEdgtAMQ9EAZpOS0aAfN2g9Qkxvls/edit?usp=sharing)
 
 
 ## Deliverables
