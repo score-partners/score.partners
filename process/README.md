@@ -4,6 +4,9 @@ This plan provides a step by step overview of the collaborative development proc
 
 This process is coordinated and periodically revised by Claus and Boris, WP1. Input from all participants is welcome.
 
+Workgroups that complete the ‘work plan’ will become active working groups. These will be captured in the [active working group dashboard](https://docs.google.com/spreadsheets/d/1moOu1tkTcBKBrCvEdgtAMQ9EAZpOS0aAfN2g9Qkxvls/edit?usp=sharing) by Juliette, from BaxCo, WP1. 
+
+
 ## About this process
 
 The process starts from the structure provided in SCORE’s application form, but offers a more detailed and practical workflow following an Agile software development methodology.
