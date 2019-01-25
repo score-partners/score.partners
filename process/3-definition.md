@@ -1,6 +1,6 @@
 # Definition: discover solutions
 
-Solution working groups complete the **solution working group template plan** and – when finished – report to Hugo, from Amsterdam WP4. 
+Solution working groups complete the **solution working group template plan** (STILL IN DEVELOPMENT) and – when finished – report to Hugo, from Amsterdam WP4. 
 
 The solution working group plan includes:
 
