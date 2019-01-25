@@ -2,10 +2,10 @@
 
 Challenge working groups complete the **challenge working group template plan** (STILL IN DEVELOPMENT) and – when finished – report to Joran, from Gent WP3.
 
-This template plan wil include: 
+This template plan includes:
 
+**Overview of working group members:**
 
-Overview of working group members:
 
 * problem owners from each co-developing partner
 * product owners form each co-developing partner
@@ -20,6 +20,9 @@ The working group does the following:
 * __Start solution definition__: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
 
 Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups category. In that category there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
+
+A challenge working group might split up in to multiple solution working groups, since there might be multiple possible solutions for a challenge.
+
 
 ## IoT Registry solution example story:
 

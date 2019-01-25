@@ -1,8 +1,19 @@
-# The process for transnational development
+# The SCORE process for transnational development
 
-This plan provides a step by step overview of the collaborative development process. Each step includes examples of a hypothetical use case, in which Aarhus and Amsterdam take stock of their needs and situation, decide to co-develop a solution building on the Open Source Sentilo platform, and test further deployment with Living Labs in Göteborg and Ghent implementing and testing the solution, fixing the bugs that surface, as well as improving it for further deployment.
+This plan provides a step by step overview of the collaborative development process. Each step includes examples of a hypothetical use case.
 
-## Phases and planning
+This process is coordinated and periodically revised by Claus and Boris, WP1. Input from all participants is welcome.
+
+Workgroups that complete the ‘work plan’ will become active working groups. These will be captured in the [active working group dashboard](https://docs.google.com/spreadsheets/d/1moOu1tkTcBKBrCvEdgtAMQ9EAZpOS0aAfN2g9Qkxvls/edit?usp=sharing) by Juliette, from BaxCo, WP1. 
+
+
+## About this process
+
+The process starts from the structure provided in SCORE’s application form, but offers a more detailed and practical workflow following an Agile software development methodology.
+
+This Agile methodology enables rapid development of high quality software through valuing experimentation over speculation, testing with real users, development in short iterations and focussing on outcomes early on in the process. It also integrates and SCORE’s principles of open collaboration, open standards and open data, open and reusable code.
+
+## Phases and recommended planning
 
 ![SCORE Process](/assets/score-process.svg)
 
@@ -17,18 +28,3 @@ This plan provides a step by step overview of the collaborative development proc
 | [__Scaling__: reuse and dissemination](7-scaling.md) | Months 12 to 24 |
 | Ongoing maintainance          | Ongoing |
 
-## About this process
-
-The process starts from the structure provided in SCORE’s application form, but offers a more detailed and practical workflow following an Agile software development methodology. As such, it bridges the realities of software development, the need for transnational project management, and accountability to Interreg and reporting requirements.
-
-This Agile methodology enables rapid development of high quality software through valuing experimentation over speculation, testing with real users, development in short iterations and focussing on outcomes early on in the process. It also integrates and SCORE’s principles of open collaboration, open standards and open data, open and reusable code.
-
-Concretely, it makes actionable SCORE Work Package 2, 3, 4, 5 and 6 activities for partners to co-develop solutions.
-
-It includes three levels of coordination:
-
-* transnational project-wide coordination between partners and work package leaders
-* working group coordination - between policy makers, problem owners (water/mobility/environment) and product owners (who drive development)
-* development team coordination, between product owners and developers in different cities working on the same codebase.
-
-As indicated in the minutes of the November planning meeting in Amsterdam, the project workflow is completed in 2 years, to allow for 2 iterations of the project. It starts after the kick-off, during which cities clustered around common challenges form working groups (D3.2 & D3.3).
