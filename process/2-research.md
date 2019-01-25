@@ -1,6 +1,8 @@
 # Research: challenge working groups
 
-To find possible solutions for shared challenges partners come together in challenge working group.
+Challenge working groups complete the **challenge working group template plan** (STILL IN DEVELOPMENT) and – when finished – report to Joran, from Gent WP3.
+
+This template plan wil include: 
 
 The working group consist of:
 
