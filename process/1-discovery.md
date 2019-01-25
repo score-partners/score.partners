@@ -5,4 +5,5 @@ Participants can submit new challenges and solutions they would like to propose 
 This process is managed by Joran from Gent (WP3) and will be ‘closed’ every 3 months to identify shared challenges and solutions.   
 
 Participations with shared challenges - go to ![Research: challenge working groups](http://score.partners/process/2-research.html)
+
 Participants with shared solutions - go to [Definition: discover solutions](http://score.partners/process/3-definition.html)
