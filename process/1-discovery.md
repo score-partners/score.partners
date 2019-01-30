@@ -33,12 +33,13 @@ To identify common solutions, partners will be asked to respond to the [**Pendin
 
 Once shared interest has been identified:
 
-Challenge working groups; the [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing) will be used. (NOTE: This  is still in beta testing, and will be updated here once validated.) 
+Challenge working groups; the [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing) will be used. (NOTE: This  is still in beta testing, and will be updated here once validated.)
+
 
 Solution working groups; participating partners will complete a short [**'work plan'**](https://score.community/t/solution-definition-document/690) in their 'proposed working group' community thread. This will be managed by Hugo, Amsterdam - WP4 lead. 
 
 ## Next steps! 
 
-Challenge working groups - go to [**Research: challenge working groups**](http://score.partners/process/2-research.html)
+Once challenge groups are confirmed, go to [**Research: challenge working groups**](http://score.partners/process/2-research.html)
 
-Solution working groups - go to [**Definition: discover solutions**](http://score.partners/process/3-definition.html)
+Once Solution groups have completed the work plan, go to [**Definition: discover solutions**](http://score.partners/process/3-definition.html)
