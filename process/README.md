@@ -1,11 +1,8 @@
-# The SCORE process for transnational development
+# The SCORE process for collaborative transnational development
 
-This plan provides a step by step overview of the collaborative development process. Each step includes examples of a hypothetical use case.
+This guide provides a step by step overview of the collaborative development process in SCORE. Each step includes examples of a hypothetical use case.
 
-This process is coordinated and periodically revised by Claus and Boris, WP1. Input from all participants is welcome.
-
-Workgroups that complete the ‘work plan’ will become active working groups. These will be captured in the [active working group dashboard](https://docs.google.com/spreadsheets/d/1moOu1tkTcBKBrCvEdgtAMQ9EAZpOS0aAfN2g9Qkxvls/edit?usp=sharing) by Juliette, from BaxCo, WP1. 
-
+This process is coordinated and periodically revised by Claus and Boris, WP1. All partners are asked to provide iterative feedback. 
 
 ## About this process
 
