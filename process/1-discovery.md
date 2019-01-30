@@ -7,10 +7,10 @@ SCORE partners will periodically be asked to propose new challanges and solution
 * Challenges can be proposed via the [**Challenge detection form**](https://docs.google.com/forms/d/e/1FAIpQLSeQltrrI9yl4aH-MrpoXxnK31Ox5_Y1-WFQYvgTMQ7lIP4hWg/viewform).
 
 * Solutions can be proposed via the [**Pending new workgroup status dashboard**](https://docs.google.com/spreadsheets/d/1XKKDu_qvJzp0v1iInYSlI2dP5j8BcjKa2zjKvmlyvu4/edit?usp=sharing). 
-Partners proposing a new solution should first make a community post in the [**propose a new working group category**](https://score.community/c/working-groups/new-working-groups). 
-Secondly, they can fill out the [**solution based proposal template**](https://score.community/t/partnership-update-overview-of-activity-for-september-october-and-november-2018/493/8). (NOTE: This is still in beta testing, and will be update here once validated) 
+ * Partners proposing a new solution should first make a community post in the [**propose a new working group category**](https://score.community/c/working-groups/new-working-groups). 
+ * Secondly, they can fill out the [**solution based proposal template**](https://score.community/t/partnership-update-overview-of-activity-for-september-october-and-november-2018/493/8). (NOTE: This is still in beta testing, and will be update here once validated) 
 
-This process is managed by Joran from Gent (WP3).
+This process is managed by Joran, Gent, - WP3 lead.
 
 ## Identifying shared challenges and solutions 
 
@@ -35,7 +35,7 @@ Once shared interest has been identified:
 
 Challenge working groups; the [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing) will be used. (NOTE: This  is still in beta testing, and will be updated here once validated.) 
 
-Solution working groups; participating partners will complete a short 'temporary work plan' in their 'proposed working group' community thread. Once this is complete, they will send it to Hugo, Amsterdam, WP4. 
+Solution working groups; participating partners will complete a short 'temporary work plan' in their 'proposed working group' community thread. This will be managed by Hugo, Amsterdam - WP4 lead. 
 
 ## Next steps! 
 
