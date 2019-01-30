@@ -40,6 +40,6 @@ Solution working groups; participating partners will complete a short [**'work p
 
 ## Next steps! 
 
-Once challenge groups are confirmed, go to [**Research: challenge working groups**](http://score.partners/process/2-research.html)
+Once validated, challenge groups will get their own 'working group category' on the community, and start [**Research: challenge working groups**](http://score.partners/process/2-research.html)
 
-Once Solution groups have completed the work plan, go to [**Definition: discover solutions**](http://score.partners/process/3-definition.html)
+Once validated and having copleted their work plan, solution groups will get their own 'working group category' on the community, and start [**Definition: discover solutions**](http://score.partners/process/3-definition.html)
