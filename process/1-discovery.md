@@ -35,7 +35,7 @@ Once shared interest has been identified:
 
 Challenge working groups; the [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing) will be used. (NOTE: This  is still in beta testing, and will be updated here once validated.) 
 
-Solution working groups; participating partners will complete a short 'temporary work plan' in their 'proposed working group' community thread. This will be managed by Hugo, Amsterdam - WP4 lead. 
+Solution working groups; participating partners will complete a short [**'work plan'**](https://score.community/t/solution-definition-document/690) in their 'proposed working group' community thread. This will be managed by Hugo, Amsterdam - WP4 lead. 
 
 ## Next steps! 
 
