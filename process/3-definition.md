@@ -1,8 +1,8 @@
 # Definition: discover solutions
 
-Solution working groups complete the **solution working group template plan** (STILL IN DEVELOPMENT) and – when finished – report to Hugo, from Amsterdam WP4. 
+(NOTE: This has not yet been tested)
 
-The solution working group plan includes:
+Once formed, solution working groups:
 
 * __Formulate Solution Definition__: An Agile replacement of the specifications of software (D3.7).
 * __Plan__: Sets up common timeline, key milestones and collaboration structures to ensure a coherent working method for the solution working group, that also integrates with the overall project plan.
