@@ -1,11 +1,10 @@
 # Research: challenge working groups
 
-Challenge working groups complete the **challenge working group template plan** (STILL IN DEVELOPMENT) and – when finished – report to Joran, from Gent WP3.
+(NOTE: This has not yet been tested, as should be integrated with [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing))
 
-This template plan includes:
+Once challenge working groups are confirmed, they should: 
 
-**Overview of working group members:**
-
+**Define working group members, including:**
 
 * problem owners from each co-developing partner
 * product owners form each co-developing partner
