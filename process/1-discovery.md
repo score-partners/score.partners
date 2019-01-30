@@ -2,7 +2,7 @@
 
 ## Propose new challenges and solutions
 
-SCORE partners will periodically be asked to propose new challanges and solutions for transnational collaboration within SCORE. 
+SCORE partners will periodically be asked to propose new challenges and solutions for transnational collaboration within SCORE. 
 
 * Challenges can be proposed via the [**Challenge detection form**](https://docs.google.com/forms/d/e/1FAIpQLSeQltrrI9yl4aH-MrpoXxnK31Ox5_Y1-WFQYvgTMQ7lIP4hWg/viewform).
 
