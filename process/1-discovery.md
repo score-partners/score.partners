@@ -10,7 +10,7 @@ SCORE partners will periodically be asked to propose new challanges and solution
     * Partners proposing a new solution should first make a community post in the [**propose a new working group category**](https://score.community/c/working-groups/new-working-groups). 
     * Secondly, they can fill out the [**solution based proposal template**](https://score.community/t/partnership-update-overview-of-activity-for-september-october-and-november-2018/493/8). (NOTE: This is still in beta testing, and will be update here once validated) 
 
-This process is managed by Joran, Gent, - WP3 lead.
+This process is managed by Joran, Gent - WP3 lead.
 
 ## Identifying shared challenges and solutions 
 
