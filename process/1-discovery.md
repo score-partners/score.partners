@@ -8,7 +8,7 @@ SCORE partners will periodically be asked to propose new challenges and solution
 
 * Solutions can be proposed via the [**Pending new workgroup status dashboard**](https://docs.google.com/spreadsheets/d/1XKKDu_qvJzp0v1iInYSlI2dP5j8BcjKa2zjKvmlyvu4/edit?usp=sharing). 
     * Partners proposing a new solution should first make a community post in the [**propose a new working group category**](https://score.community/c/working-groups/new-working-groups). 
-    * Secondly, they can fill out the [**solution based proposal template**](https://score.community/t/partnership-update-overview-of-activity-for-september-october-and-november-2018/493/8). (NOTE: This is still in beta testing, and will be update here once validated) 
+    * Secondly, they can fill out the [**solution based proposal template**](https://score.community/t/partnership-update-overview-of-activity-for-september-october-and-november-2018/493/8). (NOTE: This is still in testing, and will be update here once validated) 
 
 This process is managed by Joran, Gent - WP3 lead.
 
@@ -16,7 +16,7 @@ This process is managed by Joran, Gent - WP3 lead.
 
 The input from partners will be analysed to identify shared challenges and solutions. 
 
-To identify common challenges, the [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing) will be used. (NOTE: This  is still in beta testing, and will be updated here once validated.)
+To identify common challenges, the [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing) will be used. (NOTE: This  is still in testing, and will be updated here once validated.)
 
 To identify common solutions, partners will be asked to respond to the [**Pending new workgroup status dashboard**](https://docs.google.com/spreadsheets/d/1XKKDu_qvJzp0v1iInYSlI2dP5j8BcjKa2zjKvmlyvu4/edit?usp=sharing) with the following answers:
 
