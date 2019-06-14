@@ -15,8 +15,9 @@
 
 
 <section id="sidebar">
-  <h3 class="{% if page.path == 'index.md' %}active{% endif %}"><a href="/">Home</a>
-
+ <h3 class="{% if page.path == 'index.md' %}active{% endif %}"><a href="/">Home</a>
+ <h3 class="{% if page.path == 'vision.md' %}active{% endif %}"><a href="/vision.html">Vision</a></h3> 
+  
  <h3 class="{% if page.path == 'tools/index.md' %}active{% endif %}"><a href="/tools/">What are the tools?</a></h3>
   <ul id="status-items">
   {% for item in site.pages %}
