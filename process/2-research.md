@@ -1,13 +1,15 @@
 # Research: challenge working groups
 
-To find possible solutions for shared challenges partners come together in challenge working group.
+(NOTE: This has not yet been tested, as should be integrated with [**"D3.1 Challenge detection methodology"**](https://docs.google.com/document/d/1B7sBfOUatLpSQnRqOZidihVEgINO6RD5cRYMV0EmLFQ/edit?usp=sharing))
 
-The working group consist of:
+Once challenge working groups are confirmed, they should: 
+
+**Define working group members, including:**
 
 * problem owners from each co-developing partner
 * product owners form each co-developing partner
 * technical team members from the co-developing partners
-* a representative from each testing partners
+* Optionally: a representative from each testing partners
 
 The working group does the following:
 
@@ -17,6 +19,9 @@ The working group does the following:
 * __Start solution definition__: Agrees to start co-developing a particular software solution to the common problem, based on guidelines from Ghent (D3.1), input from public service providers and citizens (D3.4), and a business case (D3.6).
 
 Working groups have their own topic on the [SCORE Community](https://score.community/c/working-groups) in the Working Groups category. In that category there is also a pinned post with the details and committed members of each working group. Anyone is free to join a Working Group.
+
+A challenge working group might split up in to multiple solution working groups, since there might be multiple possible solutions for a challenge.
+
 
 ## IoT Registry solution example story:
 

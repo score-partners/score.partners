@@ -1,7 +1,3 @@
-# Glossary
-
-Definitions for the terms we use in SCORE.
-
 ## Request a guide
 
 Please [post an issue](https://github.com/score-partners/score.partners/issues/new) describing the guide you would like to see and we'll get to it as soon as possible.
