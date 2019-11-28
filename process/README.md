@@ -2,7 +2,7 @@
 
 This guide provides a step by step overview of the collaborative development process in SCORE. Each step includes examples of a hypothetical use case.
 
-This process is coordinated and periodically revised by Claus and Boris, WP1. All partners are asked to provide iterative feedback. 
+NOTE: This process was developed as a draft hypothesis. It was not fully implemented and is currently not being used. 
 
 ## About this process
 
