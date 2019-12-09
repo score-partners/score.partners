@@ -9,7 +9,9 @@
     min-height: 64px;
   }
 
-  footer #github-banner>p, footer #partner-logos, footer #footer-logo {
+  footer #github-banner>p,
+  footer #partner-logos,
+  footer #footer-logo {
     max-width: 1110px;
     padding: 22px 0;
     margin: 0 auto;
@@ -25,10 +27,10 @@
   footer #partner-logos>img {
     display: block;
     height: 40px;
-    margin: 8px; 
+    margin: 8px;
   }
 
-  footer #footer-logo> img {
+  footer #footer-logo>img {
     max-width: 400px;
   }
 </style>
@@ -36,28 +38,46 @@
 <footer>
 
   <div id="github-banner">
-    <p class="copyright">Propose changes to this website on the <a href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }} repository</a>, and more from <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }} on GitHub</a></p>
+    <p class="copyright">Propose changes to this website on the <a
+        href="{{ site.github.repository_url }}">{{ site.title | default: site.github.repository_name }} repository</a>,
+      and more from <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }} on GitHub</a></p>
   </div>
 
   <div id="partner-logos">
-    <img alt="City of Amsterdam" src="https://score.community/uploads/default/original/1X/37c88aed548c3da5696329d185b846baf3b4129e.png">
-    <img alt="City of Hamburg" src="https://score.community/uploads/default/original/1X/c65f05cd701e9d1e20971ebf5d89fe6a5bf0b736.jpg">
-    <img alt="City of Dordrecht" src="https://score.community/uploads/default/original/1X/745b9f1d9f964adfbb097a51cae7103d2b4e3a49.png">
-    <img alt="Johanneberg Science Park" src="https://score.community/uploads/default/original/1X/d5746bfc5c039cc6286398a22c9a6bfbf10ee84e.png">
-    <img alt="City of Bergen" src="https://score.community/uploads/default/original/1X/c4199a897cc15ae6a6c78e091270b9ffcf9b3a2c.png">
-    <img alt="City of Bradford" src="https://score.community/uploads/default/optimized/1X/ae2c206600673e4479340eb74917b90fddffd370_1_690x191.jpg">
-    <img alt="Amsterdam Data Science" src="https://score.community/uploads/default/original/1X/b23b780c63b12f6e719ae7475d3c7777ad4369f4.png">
-    <img alt="University of Bradford" src="https://score.community/uploads/default/original/1X/0db81c4a53a84376495a7040813b1f0aaa38089a.png">
-    <img alt="Aarhus University" src="https://score.community/uploads/default/original/1X/42b1abaf94ae9a3af41066d5031fc3dbaa045538.png">
-    <img alt="City of Aarhus" src="https://score.community/uploads/default/original/1X/13185ea1830d7de4c11d4e286a246f71e3968f2a.png">
-    <img alt="City of Aberdeen" src="https://score.community/uploads/default/original/1X/e7fff8017a8b890098ea80451e29d41afc85f3f5.png">
-    <img alt="City of Ghent" src="https://score.community/uploads/default/original/1X/13cfd3e86ff006462986d4270890fb2482bea9d8.png">
-    <img alt="Digipolis Ghent" src="https://score.community/uploads/default/original/1X/8860bd9e168988483062b97b6107492453754b15.jpeg">
-    <img alt="City of Gothenburg" src="https://score.community/uploads/default/original/1X/a1598fbc056d1525533477a1ef443b869ff9836a.png">
-    <img alt="Bax & Company" src="https://score.community/uploads/default/original/1X/15665aeb41acd9beb4a1078c8a842b560d005a81.png">
+    <img alt="City of Amsterdam"
+      src="https://score.community/uploads/default/original/1X/37c88aed548c3da5696329d185b846baf3b4129e.png">
+    <img alt="City of Hamburg"
+      src="https://score.community/uploads/default/original/1X/c65f05cd701e9d1e20971ebf5d89fe6a5bf0b736.jpg">
+    <img alt="City of Dordrecht"
+      src="https://score.community/uploads/default/original/1X/745b9f1d9f964adfbb097a51cae7103d2b4e3a49.png">
+    <img alt="Johanneberg Science Park"
+      src="https://score.community/uploads/default/original/1X/d5746bfc5c039cc6286398a22c9a6bfbf10ee84e.png">
+    <img alt="City of Bergen"
+      src="https://score.community/uploads/default/original/1X/c4199a897cc15ae6a6c78e091270b9ffcf9b3a2c.png">
+    <img alt="City of Bradford"
+      src="https://score.community/uploads/default/original/1X/ae2c206600673e4479340eb74917b90fddffd370.jpg">
+    <img alt="Amsterdam Data Science"
+      src="https://score.community/uploads/default/original/1X/b23b780c63b12f6e719ae7475d3c7777ad4369f4.png">
+    <img alt="University of Bradford"
+      src="https://score.community/uploads/default/original/1X/0db81c4a53a84376495a7040813b1f0aaa38089a.png">
+    <img alt="Aarhus University"
+      src="https://score.community/uploads/default/original/1X/42b1abaf94ae9a3af41066d5031fc3dbaa045538.png">
+    <img alt="City of Aarhus"
+      src="https://score.community/uploads/default/original/1X/13185ea1830d7de4c11d4e286a246f71e3968f2a.png">
+    <img alt="City of Aberdeen"
+      src="https://score.community/uploads/default/original/1X/e7fff8017a8b890098ea80451e29d41afc85f3f5.png">
+    <img alt="City of Ghent"
+      src="https://score.community/uploads/default/original/1X/13cfd3e86ff006462986d4270890fb2482bea9d8.png">
+    <img alt="Digipolis Ghent"
+      src="https://score.community/uploads/default/original/1X/8860bd9e168988483062b97b6107492453754b15.jpeg">
+    <img alt="City of Gothenburg"
+      src="https://score.community/uploads/default/original/1X/a1598fbc056d1525533477a1ef443b869ff9836a.png">
+    <img alt="Bax & Company"
+      src="https://score.community/uploads/default/original/1X/15665aeb41acd9beb4a1078c8a842b560d005a81.png">
   </div>
 
   <div id="footer-logo">
-    <img alt="European Union Interreg North Sea Region SCORE" src="https://score.community/uploads/default/original/1X/ad06b2667cd6136665e3316b749988b9e20a5555.png">
+    <img alt="European Union Interreg North Sea Region SCORE"
+      src="https://score.community/uploads/default/original/1X/ad06b2667cd6136665e3316b749988b9e20a5555.png">
   </div>
 </footer>
